@@ -3,10 +3,6 @@ calculator using react.js.
 ## Local Setup
 
 ```sh
-$ git clone git@github.com:kane0505/Excellent-React-Calculator.git
-```
-
-```sh
 $ cd Excellent-React-Calculator
 ```
 
